@@ -1,6 +1,6 @@
-이도연
+다시 해봐요. 어떻게???
 sample data
-1357
+24681012
 update
 
 git commit -m "first commit" 
