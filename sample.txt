@@ -1,8 +1,5 @@
-다시 해봐요. 어떻게???
-오호~
-칭찬해요 ^^
-24681012
-update
+뭘 바꿨을까요?
+GitHub
 
 git commit -m "first commit" 
 git branch -M master 
@@ -12,3 +9,5 @@ git remote add origin https://github.com/DoYeonLee/ai.git
 git remote add origin https://github.com/DoYeonLee/ai.git
  git branch -M master 
 git push -u origin master
+
+0202
