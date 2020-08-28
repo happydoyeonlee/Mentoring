@@ -1,3 +1,12 @@
 이도연
 sample data
 1357
+
+git commit -m "first commit" 
+git branch -M master 
+git remote add origin https://github.com/DoYeonLee/ai.git
+ git push- u 원산지 마스터
+
+git remote add origin https://github.com/DoYeonLee/ai.git
+ git branch -M master 
+git push -u origin master
