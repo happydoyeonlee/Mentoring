@@ -1,6 +1,7 @@
 이도연
 sample data
 1357
+update
 
 git commit -m "first commit" 
 git branch -M master 
